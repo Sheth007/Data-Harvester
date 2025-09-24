@@ -1,4 +1,4 @@
-# Disclaimer & Acceptable Use
+# 🛑 Disclaimer & Acceptable Use ✋
 
 This guide is intended for **educational purposes only**. It describes **passive, public-source information collection techniques** (OSINT) for lawful research, personal security, or academic use.
 
