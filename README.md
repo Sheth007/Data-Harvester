@@ -1,4 +1,4 @@
-# Linux - OSINT Guide
+# Linux - OSINT Guide ⚫️
 
 ## 🎯 GOAL: Start with just a name → find more info (accounts, location, contacts, etc.)
 
@@ -132,7 +132,7 @@ You would:
 
 ---
 
-# LEVEL +1
+# LEVEL +1 🟡
 
 So, what you read just above is only **surface-level OSINT** – the kind anyone with persistence can figure out.
 
@@ -241,7 +241,7 @@ Yes, it's possible to go extremely deep. But:
 
 ---
 
-# LEVEL +2
+# LEVEL +2 🟠
 
 ## 0) Quick goal → end state
 
@@ -363,7 +363,7 @@ Make a simple table and stop once you have a 2–3 high confidence matches.
 
 ---
 
-# LEVEL +3
+# LEVEL +3 🔴
 
 Okay so if you reached till here then you will get some practical catalogue of **useful OSINT tools** with one-liner examples or command snippets for each and a short note about what you'll get. No fluff, just actionable. Use responsibly and stay "legal".
 
@@ -658,4 +658,4 @@ Manual: query bots like `@usernameinfo_bot` or Mastodon search for usernames acr
 
 ---
 
-Want a tiny starter script that runs Sherlock + a couple dorks and writes a CSV you can run locally? I'll drop a ready-to-run Python script – no web crawling beyond Sherlock – and you run it on your machine. Which do you want: script or quick GUI tool setup (SpiderFoot/Maltego)?
+# More Comming soon...
