@@ -3,6 +3,7 @@
 ## 🎯 GOAL: Start with just a name → find more info (accounts, location, contacts, etc.)
 
 ### 🔍 PROCESS: Step-by-step breakdown
+> ⚠️ Please read [DISCLAIMER](DISCLAIMER.md) before using this guide.
 
 ---
 
